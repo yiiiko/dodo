@@ -1,3 +1,6 @@
+//week 9 array_2d_6.pde from Bryan Ma
+//Processing Library Frame Differencing
+
 PImage photo;
 int NUMBALLS = 30;
 int x;
